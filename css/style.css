@@ -1,1 +1,6 @@
-
+.caixa1{
+    background-color: rgba(77, 171, 248, 0.884);
+    width: 300px;
+    height: 300px;
+    float:left;
+  }
