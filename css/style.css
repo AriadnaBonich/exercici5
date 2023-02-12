@@ -1,12 +1,21 @@
 .caixa1{
     background-color: rgba(77, 171, 248, 0.884);
-    width: 300px;
-    height: 300px;
     float: left;
+    width: 250px;
+    height: 200px;
+    padding: 10px 12px 14px 16px;
+    border-width: 2px;
+    border-style: dotted;
+    margin: 10px;
+
   }
   .caixa2{
     background-color:rgb(180, 155, 240);
-    width: 300px;
-    height: 300px;
-    float:right;
+    float: right;
+    width: 250px;
+    height: 200px;
+    padding: 10px 12px 14px 16px;
+    border-width: 2px;
+    border-style: dotted;
+    margin: 10px;
   }
